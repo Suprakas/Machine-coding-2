@@ -38,3 +38,24 @@ Only the latest timeout is allowed to finish, which updates the debounced value.
 This reduces unnecessary work and improves performance.
 
 */
+
+/* Implement useDebounce hook without useEffect => 
+
+import { useRef, useCallback } from "react";
+
+export default function useDebounce(callback, delay) {
+  const timerRef = useRef();
+
+  return useCallback(
+    (...args) => {
+      clearTimeout(timerRef.current);
+
+      timerRef.current = setTimeout(() => {
+        callback(...args);
+      }, delay);
+    },
+    [callback, delay]
+  );
+}
+
+*/
