@@ -245,7 +245,7 @@ Week 3
 
 Week 4
 - [Done] useTimeout
-- [ ] useInterval
+- [Done] useInterval
 - [ ] useWindowSize
 
 ---
