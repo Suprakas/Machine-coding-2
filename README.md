@@ -244,7 +244,7 @@ Week 3
 - [Done] useLocalStorage
 
 Week 4
-- [ ] useTimeout
+- [Done] useTimeout
 - [ ] useInterval
 - [ ] useWindowSize
 
