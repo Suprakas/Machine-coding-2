@@ -235,7 +235,7 @@ Week 1
 - [Done] useThrottle
 
 Week 2
-- [ ] useClickOutside
+- [Done] useClickOutside
 - [ ] useFetch
 
 Week 3
