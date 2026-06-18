@@ -236,7 +236,7 @@ Week 1
 
 Week 2
 - [Done] useClickOutside
-- [ ] useFetch
+- [Done] useFetch
 
 Week 3
 - [Done] useIntersectionObserver
