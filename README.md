@@ -239,7 +239,7 @@ Week 2
 - [ ] useFetch
 
 Week 3
-- [ ] useIntersectionObserver
+- [Done] useIntersectionObserver
 - [Done] usePrevious
 - [Done] useLocalStorage
 
